@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0FDA414F-AB66-4AC0-AF55-8DE99A23B04A}|Default">
+  <MonoDevelop.Ide.ItemProperties.homework8__MainPrintFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="homework8_MainPrintFile/Program.cs">
+    <Files>
+      <File FileName="homework8_MainPrintFile/Program.cs" Line="55" Column="34" />
+      <File FileName="homework8_MainPrintFile/PDF.cs" />
+      <File FileName="homework8_MainPrintFile/Word.cs" />
+      <File FileName="homework8_MainPrintFile/Excel.cs" />
+      <File FileName="homework8_MainPrintFile/MainPrintFile.cs" />
+      <File FileName="homework8_MainPrintFile/IPrintable.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework8_MainPrintFile" expanded="True">
+            <Node name="homework8_MainPrintFile" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

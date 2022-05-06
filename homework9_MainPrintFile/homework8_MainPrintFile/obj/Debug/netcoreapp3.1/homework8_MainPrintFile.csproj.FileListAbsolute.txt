@@ -1,0 +1,13 @@
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/bin/Debug/netcoreapp3.1/homework8_MainPrintFile.deps.json
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/bin/Debug/netcoreapp3.1/homework8_MainPrintFile.runtimeconfig.json
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/bin/Debug/netcoreapp3.1/homework8_MainPrintFile.runtimeconfig.dev.json
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/bin/Debug/netcoreapp3.1/homework8_MainPrintFile.dll
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/bin/Debug/netcoreapp3.1/homework8_MainPrintFile.pdb
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/obj/Debug/netcoreapp3.1/homework8_MainPrintFile.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/obj/Debug/netcoreapp3.1/homework8_MainPrintFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/obj/Debug/netcoreapp3.1/homework8_MainPrintFile.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/obj/Debug/netcoreapp3.1/homework8_MainPrintFile.AssemblyInfo.cs
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/obj/Debug/netcoreapp3.1/homework8_MainPrintFile.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/obj/Debug/netcoreapp3.1/homework8_MainPrintFile.dll
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/obj/Debug/netcoreapp3.1/homework8_MainPrintFile.pdb
+/Users/shahrom/Desktop/homework8_MainPrintFile/homework8_MainPrintFile/obj/Debug/netcoreapp3.1/homework8_MainPrintFile.genruntimeconfig.cache
